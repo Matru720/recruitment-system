@@ -1,0 +1,15 @@
+# Executable file built by 'go build'
+# The name will match your project folder name
+recruitment-system
+recruitment-system.exe
+
+# Environment file - DO NOT COMMIT THIS
+# It contains secrets like API keys and database passwords.
+.env
+
+# Folder for resume uploads - DO NOT COMMIT THIS
+# You don't want user data in your repository.
+/uploads/
+
+# VS Code settings
+.vscode/
